@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+.userInfo {
+  border: 1px solid green;
+  padding: 10px;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
